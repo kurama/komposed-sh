@@ -33,7 +33,7 @@ import (
 	logf "sigs.k8s.io/controller-runtime/pkg/log"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	komposedshv1alpha1 "github.com/dorian-grst/komposed-sh/api/v1alpha1"
+	komposedshv1alpha1 "github.com/kurama/komposed-sh/api/v1alpha1"
 	// +kubebuilder:scaffold:imports
 )
 

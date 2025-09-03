@@ -35,8 +35,8 @@ import (
 	metricsserver "sigs.k8s.io/controller-runtime/pkg/metrics/server"
 	"sigs.k8s.io/controller-runtime/pkg/webhook"
 
-	komposedshv1alpha1 "github.com/dorian-grst/komposed-sh/api/v1alpha1"
-	"github.com/dorian-grst/komposed-sh/internal/controller"
+	komposedshv1alpha1 "github.com/kurama/komposed-sh/api/v1alpha1"
+	"github.com/kurama/komposed-sh/internal/controller"
 	// +kubebuilder:scaffold:imports
 )
 

@@ -1,4 +1,4 @@
-module github.com/dorian-grst/komposed-sh
+module github.com/kurama/komposed-sh
 
 go 1.22.0
 
