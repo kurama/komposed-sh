@@ -24,7 +24,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"github.com/dorian-grst/komposed-sh/test/utils"
+	"github.com/kurama/komposed-sh/test/utils"
 )
 
 const namespace = "komposed-sh-system"

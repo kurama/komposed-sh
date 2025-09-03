@@ -6,7 +6,7 @@ metadata:
 spec:
   project: komposed-sh
   source:
-    repoURL: 'https://github.com/dorian-grst/komposed-sh'
+    repoURL: 'https://github.com/kurama/komposed-sh'
     path: sample/
     targetRevision: HEAD
   destination:

@@ -27,7 +27,7 @@ import (
 
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 
-	komposedshv1alpha1 "github.com/dorian-grst/komposed-sh/api/v1alpha1"
+	komposedshv1alpha1 "github.com/kurama/komposed-sh/api/v1alpha1"
 )
 
 var _ = Describe("KomposeManifest Controller", func() {

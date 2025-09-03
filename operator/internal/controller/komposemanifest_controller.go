@@ -15,7 +15,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/log"
 
-	komposev1alpha1 "github.com/dorian-grst/komposed-sh/api/v1alpha1"
+	komposev1alpha1 "github.com/kurama/komposed-sh/api/v1alpha1"
 )
 
 // KomposeManifestReconciler reconciles a KomposeManifest object
